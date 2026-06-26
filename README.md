@@ -16,4 +16,5 @@ STM32 FreeRTOS 赛道圈速计时器
 2. FreeRTOS调度中心：输入消息队列、全局状态机、业务逻辑处理
 3. 输出任务层：数码管刷新、蜂鸣器报警提示
 
-<img width="692" height="235" alt="image" src="https://github.com/user-attachments/assets/81861999-88cd-4115-b135-9276151308a4" />
+
+<img width="1782" height="617" alt="image" src="https://github.com/user-attachments/assets/dd57be06-8433-4345-99cb-c8d5c0080eaa" />
